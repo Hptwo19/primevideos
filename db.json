@@ -1,0 +1,179 @@
+{
+  "movieDetail": [
+    {
+      "id": 1,
+      "image": "/Image/MoviesDetailsPage/Black Widow/Black Widow.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Black Widow/Black Widow2.jpg",
+      "description":"StoryLine of Black Widow: Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future."
+    },
+    {
+      "id": 2,
+      "image": "/Image/MoviesDetailsPage/FatherHood/Fatherhood.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/FatherHood/Fatherhood1.jfif",
+      "description":"StoryLine of FatherHood: After his wife died unexpectedly a day after their daughter was born, a father raises his infant child as a single father. In this movie, it shows real struggle of father to raise his daughter and how he understand the problems of his daughter."
+    },
+    {
+      "id": 3,
+      "image": "/Image/MoviesDetailsPage/Good on paper/Good on paper.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Good on paper/Good on paper1.jpg",
+      "description":"StroyLine of Good On Paper: A stand-up comedian meets a guy who seems perfect: smart, polite, successful, and potentially too good to be true after years of putting her career first."
+    },
+    {
+      "id": 4,
+      "image": "/Image/MoviesDetailsPage/Infinite/Infinite.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/Infinite/Infinite1.jpg",
+      "description":"StoryLine of Infinite: A sci-fi action adaptation that explores the concept of reincarnation through stunning visuals and well-known characters who must use their memories and previously learned talents to preserve the future from Infinites who wish to wipe out all life on the earth."
+    },
+    {
+      "id": 5,
+      "image": "/Image/MoviesDetailsPage/InTheHeights/InTheHeights.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/InTheHeights/InTheHeights2.jpg",
+      "description":"StoryLine of In The Heights: In the Heights follows a cast of characters who live in the Washington Heights neighbourhood on Manhattan's northern tip. Usnavi, a bodega owner who looks for the aged Cuban lady next door, pines for the attractive girl working in the next beauty shop, and fantasises about winning the jackpot and escaping to his native Dominican Republic, is at the core of the show. Meanwhile, Usnavi's childhood friend Nina has returned to the neighbourhood after her first year of college with unexpected news for her parents, who have spent their entire lives saving for their daughter's betterment. Usnavi and the people of the tight-knit community finally get a taste of what it's like to be at home."
+    },
+    {
+      "id": 6,
+      "image": "/Image/MoviesDetailsPage/StillWater/StillWater.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/StillWater/StillWater1.jpg",
+      "description":"A father travels from Oklahoma to France in order to assist his estranged daughter, who is doing time in jail for a murder she maintains she did not commit. "
+    },
+    {
+      "id": 7,
+      "image": "/Image/MoviesDetailsPage/The Forever Purge/The Forever Purge.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/The Forever Purge/The Forever Purge1.jpg",
+      "description":"StoryLine of The Forever Purge: All the rules are broken when a group of lawless marauders decides that the annual Purge should not end at dawn, but rather continue indefinitely."
+    },
+    {
+      "id": 8,
+      "image": "/Image/MoviesDetailsPage/The King's Man/The King's Man.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/The King's Man/The King's Man2.jpg",
+      "description":"StoryLine of The King's Man: The Kingsman agency is founded in the early twentieth century to combat a cabal waging a war to wipe out millions of people."
+    },
+    {
+      "id": 9,
+      "image": "/Image/MoviesDetailsPage/TheBabyBoss/TheBabyBoss.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/TheBabyBoss/TheBabyBoss2.jpg",
+      "description":"StoryLine of Baby Boss: The Templeton brothers have grown up and drifted apart, but a new boss baby with a forward-thinking style is about to reunite them - and spark a new family enterprise."
+    },
+    {
+      "id": 10,
+      "image": "/Image/MoviesDetailsPage/TheTomorrowWar/TheTomorrowWar.jpg",
+      "cover_image": "/Image/MoviesDetailsPage/TheTomorrowWar/TheTomorrowWar2.jpg",
+      "description":"StoryLine of The Tomorrow War: A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past."
+    }
+    
+  ],
+  "tvshowDetail": [
+    {
+      "id": 1,
+      "image": "/Image/TVshowDetailsPage/BloodLands/Bloodland.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/BloodLands/Bloodland1.jpg",
+      "description":"StoryLine of BloodLands: DCI Tom Brannick of Northern Ireland connects a kidnapping to an infamous cold case with deep personal meaning. "
+    },
+    {
+      "id": 2,
+      "image": "/Image/TVshowDetailsPage/Grey's Anatomy/Grey's Anatomy.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Grey's Anatomy/Grey's Anatomy1.jpg",
+      "description":"StoryLine of Grey's Anatomy: Starting with her entrance into the surgical residency programme at the fictional Seattle Grace Hospital, the series follows Meredith Grey (Ellen Pompeo), the daughter of the legendary general surgeon Ellis Grey (Kate Burton)."
+    },
+    {
+      "id": 3,
+      "image": "/Image/TVshowDetailsPage/Lisey's story/Lisey's Story.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Lisey's story/Lisey's Story1.png",
+      "description":"StoryLine of Lisey's story: A widow is stalked by a deadly stalker who is obsessed with her late husband's work. "
+    },
+    {
+      "id": 4,
+      "image": "/Image/TVshowDetailsPage/Manifest/Manifest.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Manifest/Manifest1.jpg",
+      "description":"StoryLine of Manifest: The crew and passengers of Montego Air Trip 828 discover five years have passed in what seemed like a few hours after landing after a bumpy but regular flight. As their new realities become clearer, a deeper mystery emerges, and some of the reintroduced passengers realise they may be destined for something more than they ever imagined. "
+    },
+    {
+      "id": 5,
+      "image": "/Image/TVshowDetailsPage/Resident Evil/Resident Evil.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Resident Evil/Resident Evil1.jfif",
+      "description":"StoryLine of Resident Evil: It's a revamped version of the survival horror game's forefather. This recreation of the 1996 horror classic is sure to send shivers down your spine, thanks to improved graphics, music, and gameplay. You're deployed to the town of Raccoon City as one of two special agents to investigate a series of gruesome killings. "
+    },
+    {
+      "id": 6,
+      "image": "/Image/TVshowDetailsPage/Sweet tooth/Sweet Tooth.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Sweet tooth/Sweet Tooth1.jfif",
+      "description":"StoryLine of Sweet Tooth: A cute half-human, half-deer child searches for a new beginning with a gruff protector on a risky trip across a post-apocalyptic world. "
+    },
+    {
+      "id": 7,
+      "image": "/Image/TVshowDetailsPage/The nevers/The nevers.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/The nevers/The nevers1.jpg",
+      "description":"StoryLine of The nevers The series is set in Victorian-era London and follows a group of people known as the Touched, most of whom are women, who suddenly have anomalous talents. Amalia True, a secretive and quick-tempered widow, and her best friend Penance Adair, a talented inventor, are two among them."
+    },
+    {
+      "id": 8,
+      "image": "/Image/TVshowDetailsPage/Young Royals/YoungRoyals.jpg",
+      "cover_image": "/Image/TVshowDetailsPage/Young Royals/YoungRoyals1.jpg",
+      "description":"StroyLine of YoungRoyals: Prince Wilhelm adjusts to life at Hillerska, his elite new boarding school, but following his heart proves to be more difficult than expected. "
+    }
+  ],
+  "featuredMovie": [
+    {
+      "id": 1,
+      "image": "/Image/FeaturedMovieSection/Fatherhood.jpg",
+      "description":"StoryLine of FatherHood: After his wife died unexpectedly a day after their daughter was born, a father raises his infant child as a single father. In this movie, it shows real struggle of father to raise his daughter and how he understand the problems of his daughter."
+    
+
+    },
+    {
+      "id": 2,
+      "image": "/Image/FeaturedMovieSection/Infinite.jpg",
+      "description":"StoryLine of Infinite: A sci-fi action adaptation that explores the concept of reincarnation through stunning visuals and well-known characters who must use their memories and previously learned talents to preserve the future from Infinites who wish to wipe out all life on the earth."
+    
+    },
+    {
+      "id": 3,
+      "image": "/Image/FeaturedMovieSection/InTheHeights.jpg",
+      "description":"StoryLine of In The Heights: In the Heights follows a cast of characters who live in the Washington Heights neighbourhood on Manhattan's northern tip. Usnavi, a bodega owner who looks for the aged Cuban lady next door, pines for the attractive girl working in the next beauty shop, and fantasises about winning the jackpot and escaping to his native Dominican Republic, is at the core of the show. Meanwhile, Usnavi's childhood friend Nina has returned to the neighbourhood after her first year of college with unexpected news for her parents, who have spent their entire lives saving for their daughter's betterment. Usnavi and the people of the tight-knit community finally get a taste of what it's like to be at home."
+    
+    },
+    {
+      "id": 4,
+      "image": "/Image/FeaturedMovieSection/StillWater.jfif",
+      "description":"A father travels from Oklahoma to France in order to assist his estranged daughter, who is doing time in jail for a murder she maintains she did not commit. "
+    
+    },
+    {
+      "id": 5,
+      "image": "/Image/FeaturedMovieSection/The King's Man.jpg",
+      "description":"StoryLine of The King's Man: The Kingsman agency is founded in the early twentieth century to combat a cabal waging a war to wipe out millions of people."
+    
+    }
+  ],
+  "featuredTvShow": [
+    {
+      "id": 1,
+      "image": "/Image/FeaturedTVshows/Grey's Anatomy.jpg",
+      "description":"StoryLine of Grey's Anatomy: Starting with her entrance into the surgical residency programme at the fictional Seattle Grace Hospital, the series follows Meredith Grey (Ellen Pompeo), the daughter of the legendary general surgeon Ellis Grey (Kate Burton)."
+    },
+    {
+      "id": 2,
+      "image": "/Image/FeaturedTVshows/Manifest.jpg",
+      "description":"StoryLine of Manifest: The crew and passengers of Montego Air Trip 828 discover five years have passed in what seemed like a few hours after landing after a bumpy but regular flight. As their new realities become clearer, a deeper mystery emerges, and some of the reintroduced passengers realise they may be destined for something more than they ever imagined. "
+    
+    },
+    {
+      "id": 3,
+      "image": "/Image/FeaturedTVshows/Resident Evil.jpg",
+      "description":"StoryLine of Resident Evil: It's a revamped version of the survival horror game's forefather. This recreation of the 1996 horror classic is sure to send shivers down your spine, thanks to improved graphics, music, and gameplay. You're deployed to the town of Raccoon City as one of two special agents to investigate a series of gruesome killings. "
+    
+    },
+    {
+      "id": 4,
+      "image": "/Image/FeaturedTVshows/Sweet Tooth.jpg",
+      "description":"StoryLine of Sweet Tooth: A cute half-human, half-deer child searches for a new beginning with a gruff protector on a risky trip across a post-apocalyptic world. "
+    
+    },
+    {
+      "id": 5,
+      "image": "/Image/FeaturedTVshows/The nevers.jpg",
+      "description":"StoryLine of The nevers The series is set in Victorian-era London and follows a group of people known as the Touched, most of whom are women, who suddenly have anomalous talents. Amalia True, a secretive and quick-tempered widow, and her best friend Penance Adair, a talented inventor, are two among them."
+    
+    }
+  ]
+}
